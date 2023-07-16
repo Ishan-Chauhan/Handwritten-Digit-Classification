@@ -1,4 +1,4 @@
-# Handwritten Digit Recognition
+# Handwritten Digit Classification
 
 This project aims to recognize handwritten digits using a Convolutional Neural Network (CNN). It provides a graphical user interface (GUI) where users can draw a digit using their mouse, and the program will predict the digit using the trained model.
 
